@@ -1,0 +1,32 @@
+{
+  "bsc": {
+    "deployer": "0x6D72799b3b21e39F4fA72f3CC1D07810F7fBF049",
+    "factory": "0x247F7aC32893b32C4a0b45Fb064bc0D832d56437",
+    "feeReceiver": "0x315d52385f70BFd15099d893072BA1e354b74FA1",
+    "feeSetter": "0x4CBbdE7a4a92A4757D58775B36cC1A56f65AfBb5"
+  },
+  "mainnet": {
+    "deployer": "",
+    "factory": "",
+    "feeReceiver": "",
+    "feeSetter": ""
+  },
+  "polygon": {
+    "deployer": "",
+    "factory": "",
+    "feeReceiver": "",
+    "feeSetter": ""
+  },
+  "avax": {
+    "deployer": "",
+    "factory": "",
+    "feeReceiver": "",
+    "feeSetter": ""
+  },
+  "alien": {
+    "deployer": "",
+    "factory": "",
+    "feeReceiver": "",
+    "feeSetter": ""
+  }
+ }
